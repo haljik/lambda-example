@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="model.MemberTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2015-01-20T06:34:09" hostname="HPC006855" time="0.086">
+  <properties/>
+  <testcase name="groupBy" classname="model.MemberTest" time="0.086"/>
+  <system-out><![CDATA[{marketing=[Member[organizationCode=marketing,name=john doe]], engineering=[Member[organizationCode=engineering,name=haljik], Member[organizationCode=engineering,name=mark]]}
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
