@@ -11,11 +11,11 @@ import static org.junit.Assert.assertThat;
 public class MemberTest {
 
     private List<Member> members() {
-        return Arrays.asList(new Member[]{
+        return Arrays.asList(
                 new Member("engineering", "haljik"),
                 new Member("engineering", "mark"),
                 new Member("marketing", "john doe")
-        });
+        );
     }
 
     private Map<String, List<Member>> groupedMembers() {
